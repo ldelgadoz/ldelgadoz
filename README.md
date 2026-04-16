@@ -14,11 +14,6 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 
 
 ---
-
-## 💻 Tech Stack & Herramientas
-
----
-
 ## 💻 Tech Stack & Herramientas
 
 ### Desarrollo e IA
