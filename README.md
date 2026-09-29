@@ -38,8 +38,11 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 
 ##  Estadísticas de GitHub
 
-![Estadísticas de Luis](https://github-readme-stats.vercel.app/api?username=ldelgadoz&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ldelgadoz&layout=compact&theme=radical)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vercel&show_icons=true&locale=es&hide_border=true" alt="Estadísticas generales de vercel" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vercel&layout=compact&locale=es&hide_border=true" alt="Lenguajes más usados por vercel" />
+</p>
 
 ---
 
