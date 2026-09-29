@@ -1,20 +1,20 @@
-# ¡Hola! Soy Luis 👋
+# Hola, soy Luis 
 
-### Estudiante de Sistemas Microinformáticos y Redes | Futuro Desarrollador de aplicaciones multiplataforma
+### Técnico en SMR | Estudiante de DAM
 
 Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimiento constante. Actualmente me formo en infraestructuras tecnológicas (SMR), pero mi verdadera meta es el desarrollo de software de alto nivel. Mi enfoque es la eficiencia, la ambición y la construcción de una carrera sólida.
 
 ---
 
-## 🛠️ Sobre mí
+##  Sobre mí
 
-- 🎓 **Actualmente:** Finalizando Grado Medio en Sistemas Microinformáticos y Redes (SMR).
-- 🔜 **Próximo paso:** Especializándome en Desarrollo de Aplicaciones Multiplataforma (DAM) a partir del próximo curso.
-- 📍 **Ubicación:** Alcalá de Henares / Villalbilla, Madrid.
+-  **Actualmente:** Cursando desarrollo de aplicaciones multiplataforma en digitech madrid
+
+-  **Ubicación:** Alcalá de Henares / Villalbilla, Madrid.
 
 
 ---
-## 💻 Tech Stack & Herramientas
+##  Tech Stack & Herramientas
 
 ### Desarrollo e IA
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,21 +29,21 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Camino a DAM (Learning & Future)
+### Aprendiendo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 ![Estadísticas de Luis](https://github-readme-stats.vercel.app/api?username=ldelgadoz&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ldelgadoz&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/luis-delgado-zamora-baaa4732b/
 - **Email:** luisdelgadozam@gmail.com
