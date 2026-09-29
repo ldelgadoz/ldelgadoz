@@ -35,16 +35,6 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 
 ---
 
-
-##  Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ldelgadoz&show_icons=true&locale=es&hide_border=true" alt="Estadísticas generales de ldelgadoz" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldelgadoz&layout=compact&locale=es&hide_border=true" alt="Lenguajes más usados por ldelgadoz" />
-</p>
-
----
-
 ##  Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/luis-delgado-zamora-baaa4732b/
