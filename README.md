@@ -45,16 +45,7 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 ## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ldelgadoz&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldelgadoz&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Lenguajes más usados">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ldelgadoz&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Racha de commits">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ldelgadoz&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Gráfica de commits">
+  <img src="stats.svg" alt="Mi actividad en GitHub: commits, rachas y lenguajes" width="840">
 </p>
 
 ---
