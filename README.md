@@ -50,7 +50,7 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldelgadoz&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Racha de commits">
+  <img src="https://streak-stats.demolab.com/?user=ldelgadoz&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Racha de commits">
 </p>
 
 <p align="center">
