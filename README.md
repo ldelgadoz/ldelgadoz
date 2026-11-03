@@ -10,15 +10,15 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
-- 🎓 **Actualmente:** Cursando desarrollo de aplicaciones multiplataforma en digitech madrid
-- 📍 **Ubicación:** Alcalá de Henares / Villalbilla, Madrid.
-- 🚀 **Proyecto:** [Slipstream Web's](https://github.com/ldelgadoz/slipstream-web), webs rápidas para negocios locales
+-  **Actualmente:** Cursando desarrollo de aplicaciones multiplataforma en digitech madrid
+-  **Ubicación:** Alcalá de Henares / Villalbilla, Madrid.
+-  **Proyecto:** [Slipstream Web's](https://github.com/ldelgadoz/slipstream-web), webs rápidas para negocios locales
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
+##  Tech Stack & Herramientas
 
 ### Desarrollo
 <p>
@@ -35,14 +35,14 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google-workspace&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
 
-### 📚 Aprendiendo
+###  Aprendiendo
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql&perline=7" alt="Aprendiendo">
 </p>
 
 ---
 
-## 📊 Mi actividad en GitHub
+##  Mi actividad 
 
 <p align="center">
   <img src="stats.svg" alt="Mi actividad en GitHub: commits, rachas y lenguajes" width="840">
@@ -50,7 +50,7 @@ Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimi
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/luis-delgado-zamora-baaa4732b/
 - **Email:** luisdelgadozam@gmail.com
