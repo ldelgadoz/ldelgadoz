@@ -2,7 +2,7 @@
 
 ### Técnico en SMR | Estudiante de DAM
 
-Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimiento constante. Actualmente me formo en infraestructuras tecnológicas (SMR), pero mi verdadera meta es el desarrollo de software de alto nivel. Mi enfoque es la eficiencia, la ambición y la construcción de una carrera sólida.
+Soy una persona con los objetivos claros y una mentalidad enfocada en el crecimiento constante. Actualmente me formo en DAM despues de haber acabado con exito el grado de Sistemas. Mi enfoque es la eficiencia, la ambición y la construcción de una carrera sólida.
 
 ---
 
