@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7c3aed,100:a78bfa&text=Hola%2C%20soy%20Luis&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=T%C3%A9cnico%20en%20SMR%20%7C%20Estudiante%20de%20DAM&descAlignY=60&descSize=18" alt="Hola, soy Luis" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=800040&text=Hola%2C%20soy%20Luis&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=T%C3%A9cnico%20en%20SMR%20%7C%20Estudiante%20de%20DAM&descAlignY=60&descSize=18" alt="Hola, soy Luis" width="100%">
 
 <p align="center">
   <a href="https://github.com/ldelgadoz/slipstream-web"><img src="https://img.shields.io/badge/Slipstream%20Web's-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Slipstream Web's"></a>
