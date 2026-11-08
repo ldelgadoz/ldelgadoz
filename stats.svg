@@ -5,7 +5,7 @@
 <text x="146" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">112</text>
 <text x="146" y="94" text-anchor="middle" font-size="13" fill="#8b949e">commits este año</text>
 <rect x="298" y="24" width="244" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
-<text x="420" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">2 días</text>
+<text x="420" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">0 días</text>
 <text x="420" y="94" text-anchor="middle" font-size="13" fill="#8b949e">racha actual</text>
 <rect x="572" y="24" width="244" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
 <text x="694" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">3 días</text>
@@ -29,14 +29,14 @@
 <rect x="495.0" y="277.0" width="24" height="3.0" rx="3" fill="#21262d"><title>0 contribuciones</title></rect>
 <rect x="526.4" y="277.0" width="24" height="3.0" rx="3" fill="#21262d"><title>0 contribuciones</title></rect>
 <rect x="557.8" y="277.0" width="24" height="3.0" rx="3" fill="#21262d"><title>0 contribuciones</title></rect>
-<rect x="589.2" y="277.0" width="24" height="3.0" rx="3" fill="#21262d"><title>0 contribuciones</title></rect>
-<rect x="620.6" y="269.7" width="24" height="10.3" rx="3" fill="#e0307a"><title>3 contribuciones</title></rect>
-<rect x="652.0" y="187.2" width="24" height="92.8" rx="3" fill="#e0307a"><title>27 contribuciones</title></rect>
-<rect x="683.4" y="221.6" width="24" height="58.4" rx="3" fill="#e0307a"><title>17 contribuciones</title></rect>
-<rect x="714.8" y="242.2" width="24" height="37.8" rx="3" fill="#e0307a"><title>11 contribuciones</title></rect>
-<rect x="746.2" y="252.5" width="24" height="27.5" rx="3" fill="#e0307a"><title>8 contribuciones</title></rect>
-<rect x="777.6" y="262.8" width="24" height="17.2" rx="3" fill="#e0307a"><title>5 contribuciones</title></rect>
-<rect x="809.0" y="170.0" width="24" height="110.0" rx="3" fill="#e0307a"><title>32 contribuciones</title></rect>
+<rect x="589.2" y="269.7" width="24" height="10.3" rx="3" fill="#e0307a"><title>3 contribuciones</title></rect>
+<rect x="620.6" y="187.2" width="24" height="92.8" rx="3" fill="#e0307a"><title>27 contribuciones</title></rect>
+<rect x="652.0" y="221.6" width="24" height="58.4" rx="3" fill="#e0307a"><title>17 contribuciones</title></rect>
+<rect x="683.4" y="242.2" width="24" height="37.8" rx="3" fill="#e0307a"><title>11 contribuciones</title></rect>
+<rect x="714.8" y="252.5" width="24" height="27.5" rx="3" fill="#e0307a"><title>8 contribuciones</title></rect>
+<rect x="746.2" y="262.8" width="24" height="17.2" rx="3" fill="#e0307a"><title>5 contribuciones</title></rect>
+<rect x="777.6" y="170.0" width="24" height="110.0" rx="3" fill="#e0307a"><title>32 contribuciones</title></rect>
+<rect x="809.0" y="277.0" width="24" height="3.0" rx="3" fill="#21262d"><title>0 contribuciones</title></rect>
 <text x="24" y="304" font-size="14" font-weight="600" fill="#e6edf3">Lenguajes más usados</text>
 <clipPath id="cl"><rect x="24" y="314" width="792" height="10" rx="5"/></clipPath><g clip-path="url(#cl)">
 <rect x="24.0" y="314" width="424.1" height="10" fill="#e34c26"/>
