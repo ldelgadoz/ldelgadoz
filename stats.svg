@@ -39,18 +39,18 @@
 <rect x="809.0" y="277.0" width="24" height="3.0" rx="3" fill="#21262d"><title>0 contribuciones</title></rect>
 <text x="24" y="304" font-size="14" font-weight="600" fill="#e6edf3">Lenguajes más usados</text>
 <clipPath id="cl"><rect x="24" y="314" width="792" height="10" rx="5"/></clipPath><g clip-path="url(#cl)">
-<rect x="24.0" y="314" width="424.1" height="10" fill="#e34c26"/>
-<rect x="448.1" y="314" width="218.4" height="10" fill="#663399"/>
-<rect x="666.5" y="314" width="87.0" height="10" fill="#b07219"/>
-<rect x="753.5" y="314" width="54.5" height="10" fill="#f1e05a"/>
-<rect x="808.0" y="314" width="8.0" height="10" fill="#3572A5"/>
+<rect x="24.0" y="314" width="420.6" height="10" fill="#e34c26"/>
+<rect x="444.6" y="314" width="216.5" height="10" fill="#663399"/>
+<rect x="661.1" y="314" width="92.9" height="10" fill="#b07219"/>
+<rect x="754.0" y="314" width="54.1" height="10" fill="#f1e05a"/>
+<rect x="808.1" y="314" width="7.9" height="10" fill="#3572A5"/>
 </g>
 <circle cx="29" cy="343" r="5" fill="#e34c26"/>
-<text x="40" y="347" font-size="12" fill="#e6edf3">HTML <tspan fill="#8b949e">54%</tspan></text>
+<text x="40" y="347" font-size="12" fill="#e6edf3">HTML <tspan fill="#8b949e">53%</tspan></text>
 <circle cx="129" cy="343" r="5" fill="#663399"/>
-<text x="140" y="347" font-size="12" fill="#e6edf3">CSS <tspan fill="#8b949e">28%</tspan></text>
+<text x="140" y="347" font-size="12" fill="#e6edf3">CSS <tspan fill="#8b949e">27%</tspan></text>
 <circle cx="221" cy="343" r="5" fill="#b07219"/>
-<text x="232" y="347" font-size="12" fill="#e6edf3">Java <tspan fill="#8b949e">11%</tspan></text>
+<text x="232" y="347" font-size="12" fill="#e6edf3">Java <tspan fill="#8b949e">12%</tspan></text>
 <circle cx="321" cy="343" r="5" fill="#f1e05a"/>
 <text x="332" y="347" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#8b949e">7%</tspan></text>
 <circle cx="469" cy="343" r="5" fill="#3572A5"/>
