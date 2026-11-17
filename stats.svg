@@ -2,10 +2,10 @@
 <rect x="1" y="1" width="838" height="388" rx="14" fill="#0d1117" stroke="#800040" stroke-width="2"/>
 <style>text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif}</style>
 <rect x="24" y="24" width="244" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
-<text x="146" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">135</text>
+<text x="146" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">141</text>
 <text x="146" y="94" text-anchor="middle" font-size="13" fill="#8b949e">commits este año</text>
 <rect x="298" y="24" width="244" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
-<text x="420" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">0 días</text>
+<text x="420" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">1 día</text>
 <text x="420" y="94" text-anchor="middle" font-size="13" fill="#8b949e">racha actual</text>
 <rect x="572" y="24" width="244" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
 <text x="694" y="68" text-anchor="middle" font-size="32" font-weight="700" fill="#e0307a">5 días</text>
@@ -36,24 +36,24 @@
 <rect x="714.8" y="263.3" width="24" height="16.7" rx="3" fill="#e0307a"><title>5 contribuciones</title></rect>
 <rect x="746.2" y="170.0" width="24" height="110.0" rx="3" fill="#e0307a"><title>33 contribuciones</title></rect>
 <rect x="777.6" y="190.0" width="24" height="90.0" rx="3" fill="#e0307a"><title>27 contribuciones</title></rect>
-<rect x="809.0" y="277.0" width="24" height="3.0" rx="3" fill="#21262d"><title>0 contribuciones</title></rect>
+<rect x="809.0" y="260.0" width="24" height="20.0" rx="3" fill="#e0307a"><title>6 contribuciones</title></rect>
 <text x="24" y="304" font-size="14" font-weight="600" fill="#e6edf3">Lenguajes más usados</text>
 <clipPath id="cl"><rect x="24" y="314" width="792" height="10" rx="5"/></clipPath><g clip-path="url(#cl)">
-<rect x="24.0" y="314" width="410.9" height="10" fill="#e34c26"/>
-<rect x="434.9" y="314" width="214.3" height="10" fill="#663399"/>
-<rect x="649.2" y="314" width="106.3" height="10" fill="#b07219"/>
-<rect x="755.5" y="314" width="53.3" height="10" fill="#f1e05a"/>
-<rect x="808.9" y="314" width="7.1" height="10" fill="#3572A5"/>
+<rect x="24.0" y="314" width="405.2" height="10" fill="#e34c26"/>
+<rect x="429.2" y="314" width="211.4" height="10" fill="#663399"/>
+<rect x="640.6" y="314" width="115.8" height="10" fill="#b07219"/>
+<rect x="756.4" y="314" width="52.6" height="10" fill="#f1e05a"/>
+<rect x="809.0" y="314" width="7.0" height="10" fill="#3572A5"/>
 </g>
 <circle cx="29" cy="343" r="5" fill="#e34c26"/>
-<text x="40" y="347" font-size="12" fill="#e6edf3">HTML <tspan fill="#8b949e">52%</tspan></text>
+<text x="40" y="347" font-size="12" fill="#e6edf3">HTML <tspan fill="#8b949e">51%</tspan></text>
 <circle cx="129" cy="343" r="5" fill="#663399"/>
 <text x="140" y="347" font-size="12" fill="#e6edf3">CSS <tspan fill="#8b949e">27%</tspan></text>
 <circle cx="221" cy="343" r="5" fill="#b07219"/>
-<text x="232" y="347" font-size="12" fill="#e6edf3">Java <tspan fill="#8b949e">13%</tspan></text>
+<text x="232" y="347" font-size="12" fill="#e6edf3">Java <tspan fill="#8b949e">15%</tspan></text>
 <circle cx="321" cy="343" r="5" fill="#f1e05a"/>
 <text x="332" y="347" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#8b949e">7%</tspan></text>
 <circle cx="469" cy="343" r="5" fill="#3572A5"/>
 <text x="480" y="347" font-size="12" fill="#e6edf3">Python <tspan fill="#8b949e">1%</tspan></text>
-<text x="24" y="379" font-size="11" fill="#8b949e">153 contribuciones en el último año · 15 repos propios · se actualiza solo cada día</text>
+<text x="24" y="379" font-size="11" fill="#8b949e">159 contribuciones en el último año · 15 repos propios · se actualiza solo cada día</text>
 </svg>
